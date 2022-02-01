@@ -1,5 +1,6 @@
 {
   "name": "squaredoodle",
+  "homepage": "/squaredoodle",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
