@@ -38,7 +38,7 @@ const colors = ["⬛️", "🟨", "🟩", "🟥", "🟦", "🟧", "🟪", "🟫"
 function Cell() {
     let [color, setColor] = React.useState(0); 
     function click() {
-        setColor(color+1 % colors.length);
+        setColor((color+1) % colors.length);
     }
     return (<span onClick={click}>
         {colors[color]}
