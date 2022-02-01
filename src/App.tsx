@@ -1,12 +1,8 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 
 function App() {
-  async function save() {
-     await navigator.clipboard.writeText("HAHAH");
-  }
   return (
     <div className="App">
       <header className="App-header">
