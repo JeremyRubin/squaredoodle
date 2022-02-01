@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/squaredoodle/static/css/main.073c9b0a.css",
-    "main.js": "/squaredoodle/static/js/main.77e8d01a.js",
+    "main.js": "/squaredoodle/static/js/main.68830a1c.js",
     "static/js/787.ab88af56.chunk.js": "/squaredoodle/static/js/787.ab88af56.chunk.js",
     "index.html": "/squaredoodle/index.html",
     "main.073c9b0a.css.map": "/squaredoodle/static/css/main.073c9b0a.css.map",
-    "main.77e8d01a.js.map": "/squaredoodle/static/js/main.77e8d01a.js.map",
+    "main.68830a1c.js.map": "/squaredoodle/static/js/main.68830a1c.js.map",
     "787.ab88af56.chunk.js.map": "/squaredoodle/static/js/787.ab88af56.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.77e8d01a.js"
+    "static/js/main.68830a1c.js"
   ]
 }
